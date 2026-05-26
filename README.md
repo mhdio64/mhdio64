@@ -1,16 +1,34 @@
-## Hi there 👋
-
-<!--
-**mhdio64/mhdio64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+╭───────────────────────────────────────────────────────────────────────────╮
+│ 🔴 🟡 🟢  dev@local: ~                                                   │
+├───────────────────────────────────────────────────────────────────────────┤
+│ dev@local:~$ ssh vagrant@production-node                                  │
+│                                                                           │
+│ ┌──────────────────────────────────────────────────┐                      │
+│ │  vagrant@production-node:~# ./whoami.sh          │                      │
+│ │  > Enforcing KISS principles...                  │                      │
+│ │  > Applying Zero Trust policies...               │                      │
+│ │  > Access granted.                               │                      │
+│ └──────────────────────────────────────────────────┘                      │
+│                                                                           │
+│ vagrant@production-node:~# cat /etc/motd                                  │
+│                                                                           │
+│ Linux SysAdmin & DevOps Engineer.                                         │
+│ Advocate for Clean Code and the KISS principle.                           │
+│ Unnecessary complexity is the enemy of stability.                         │
+│                                                                           │
+│ vagrant@production-node:~# ls -1 /opt/stack/                              │
+│                                                                           │
+│ ansible                                                                   │
+│ docker                                                                    │
+│ gitlab                                                                    │
+│ kubernetes                                                                │
+│                                                                           │
+│ vagrant@production-node:~# ./banner.sh                                    │
+│                                                                           │
+│   █▀▄ █▀▀ █ █ █▀█ █▀█ █▀                                                  │
+│   █▄▀ ██▄ ▀▄▀ █▄█ █▀▀ ▄█                                                  │
+│                                                                           │
+│   Systems that scale, simply.                                             │
+│                                                                           │
+│ vagrant@production-node:~# █                                              │
+╰───────────────────────────────────────────────────────────────────────────╯
