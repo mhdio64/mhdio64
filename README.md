@@ -22,7 +22,7 @@
 │ ansible                                                                                                      │
 │ docker                                                                                                       │
 │ gitlab                                                                                                       │
-│                                                                                                    │
+│                                                                                                              │
 │                                                                                                              │
 │ vagrant@production-node:~# ./banner.sh                                                                       │
 │                                                                                                              │
